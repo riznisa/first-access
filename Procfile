@@ -1,1 +1,1 @@
-web: php -S 0.0.0.0:${PORT} serve.php
+web: php -S 0.0.0.0:${PORT} server.php
